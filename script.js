@@ -1,3 +1,5 @@
 function showMessage() {
-    document.getElementById("message").textContent = "Thanks for clicking! 🚀";
+    document.getElementById("message").textContent = "Thanks for clicking!";
   }
+
+
